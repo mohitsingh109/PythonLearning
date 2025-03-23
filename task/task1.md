@@ -69,6 +69,8 @@ Sample Output:
 Password is strong. 
 ```
 
+## After this everything should be solved using function (6 - 10)
+
 ### Q6: Shopping Cart System
 Create a simple shopping cart system where the user can add items and their prices. After the user is done, display the total bill.
 
@@ -119,6 +121,7 @@ Sample Output:
 Correct! The word so far: _ e _ _ _  
 
 ```
+
 ### Q10: Temperature Converter
 Write a Python program that allows the user to convert temperatures between Celsius and Fahrenheit.
 
