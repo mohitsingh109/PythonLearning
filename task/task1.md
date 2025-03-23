@@ -68,3 +68,65 @@ Enter a password: Hello123
 Sample Output:
 Password is strong. 
 ```
+
+### Q6: Shopping Cart System
+Create a simple shopping cart system where the user can add items and their prices. After the user is done, display the total bill.
+
+```
+Sample Input:
+Enter item name: Apple  
+Enter item price: 2  
+Do you want to add more items? (yes/no): yes  
+Enter item name: Banana  
+Enter item price: 1  
+Do you want to add more items? (yes/no): no  
+
+Sample Output:
+Total bill: $3  
+
+```
+
+### Q7: ATM PIN Validator
+Write a program that asks the user to enter their 4-digit ATM PIN. The program should validate whether the PIN contains exactly 4 digits.
+```
+Sample Input:
+Enter your PIN: 1234  
+
+Sample Output:
+PIN accepted.  
+
+```
+
+### Q8: Dice Rolling Simulator
+Write a Python program that simulates rolling a dice. When the user presses enter, it should generate a random number between 1 and 6.
+
+```
+Sample Output:
+
+Rolling the dice...  
+You got a 5! 🎲  
+
+```
+
+### Q9: Word Guessing Game
+Create a game where the computer picks a random word from a list, and the player has to guess it by entering letters one at a time. If the letter is in the word, it reveals its position(s).
+
+```
+Sample Input:
+Guess a letter: e  
+
+Sample Output:
+Correct! The word so far: _ e _ _ _  
+
+```
+### Q10: Temperature Converter
+Write a Python program that allows the user to convert temperatures between Celsius and Fahrenheit.
+
+```
+Sample Input:
+Enter temperature: 100  
+Convert to (C/F): C  
+
+Sample Output:
+Converted temperature: 37.78°C  
+```
