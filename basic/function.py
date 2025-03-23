@@ -27,4 +27,17 @@ total_score = calculate_score(90, 70, 88)
 print(f"Total score: {total_score}")
 
 
-# Global v
+print("========")
+# Global variable
+global_var = "It's a global var"
+
+def f1():
+    #global global_var
+    global_var = "Hacked..."
+    print(global_var) ##?? ("Hacked")
+
+f1()
+print(global_var) ## ?? ("It's a global var")
+print("========")
+
+# Local variable
